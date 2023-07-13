@@ -3,6 +3,7 @@
 <h2>👨‍💻 General IT Projects :</h2>
 
 MICROSOFT AZURE
+- Ticketing System Lab (os ticket) 
 - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 
 
